@@ -1,0 +1,14 @@
+* {
+    font family: Verdana;
+}
+
+h1 {
+    font size: 50 px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.text-link {
+    color: aquamarine;
+    font size: 16px;
+}
