@@ -37,3 +37,8 @@ p {
 video {
     margin: 60px auto;
 }
+
+.copyright {
+    text-align: right;
+    color: gray;
+}
